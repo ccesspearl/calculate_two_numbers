@@ -13,6 +13,6 @@ def product_or_sum():
     if product <= 1000: 
         print("The result is ", product) # The result will return the product if the product is equal or lower than 1000. 
     else: 
-        print("The result is ", total_sum) # The result will return the sum of the product exceeded 1000. 
+        print("The result is ", total_sum) # The result will return the sum of the two numbers if the product exceeded 1000. 
 
 product_or_sum()
